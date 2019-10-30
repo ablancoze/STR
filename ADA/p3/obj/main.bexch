@@ -1,0 +1,22 @@
+[GENERATED OBJECT FILE]
+b__main.o
+[PROJECT FILES]
+/home/alvaro/Escritorio/UNI/Clase/Sistemas en tiempo real (STR)/workspace/ADA/p3/buffer_acotado.gpr
+20171011082448
+[BOUND OBJECT FILES]
+/home/alvaro/Escritorio/UNI/Clase/Sistemas en tiempo real (STR)/workspace/ADA/p3/obj/paquete_buffer.o
+/home/alvaro/Escritorio/UNI/Clase/Sistemas en tiempo real (STR)/workspace/ADA/p3/obj/main.o
+[GENERATED SOURCE FILES]
+b__main.ads
+b__main.adb
+b__main.ali
+[RESULTING OPTIONS]
+-L/home/alvaro/Escritorio/UNI/Clase/Sistemas en tiempo real (STR)/workspace/ADA/p3/obj/
+-L/home/alvaro/Escritorio/UNI/Clase/Sistemas en tiempo real (STR)/workspace/ADA/p3/obj/
+-L/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/
+-static
+-static-libgcc
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnarl.a
+/usr/gnat/lib/gcc/x86_64-pc-linux-gnu/4.9.3/adalib/libgnat.a
+-lpthread
+-lrt
